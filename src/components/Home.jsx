@@ -17,11 +17,13 @@ const Home = () => {
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis,
           dolores. Ex facere ad voluptas dolor excepturi error animi libero
           quasi, labore fugit ea, vitae nobis dicta dignissimos odio cum a?
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam earum, labore eos quibusdam explicabo mollitia voluptatum quisquam veniam molestiae nulla esse nostrum aliquam qui voluptate molestias rem tempore. Maiores, autem.
         </p>
         <div>
           <button className="group text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-blue-400 hover:border-blue-400">
             View Work
             <span className="group-hover:rotate-90 duration-300">
+              
               <HiArrowNarrowRight className="ml-3" />
             </span>
           </button>
