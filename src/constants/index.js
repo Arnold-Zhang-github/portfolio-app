@@ -1,5 +1,6 @@
 import failingsand from "../assets/projects/failingsand.png";
 import levelup from "../assets/projects/levelup.png";
+import todolist from "../assets/projects/image.png"
 
 export const projectsInfo = [
    {
@@ -17,9 +18,9 @@ export const projectsInfo = [
       image: levelup,
    },
    {
-      title: "Project 3",
-      description: "Description of project lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec odio vitae nunc.",
-      link: "https://www.project1.com",
-      image: failingsand,
+      title: "Nextjs Mongodb Todolist",
+      description: "A Todolist using Nextjs and Mongodb, practice Nextjs file structure, Mongodb CURD operation, API operation",
+      githublink: "https://github.com/Arnold-Zhang-github/todolist",
+      image: todolist,
    },
 ];

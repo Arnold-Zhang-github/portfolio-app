@@ -21,14 +21,10 @@ const Navbar = () => {
          <ul className="hidden md:flex text-white">
             <li>
                <Link to="home" smooth={true} duration={500}>
-                  Home
+                  AboutMe
                </Link>
             </li>
-            <li>
-               <Link to="about" smooth={true} duration={500}>
-                  About
-               </Link>
-            </li>
+            
             <li>
                <Link to="skills" smooth={true} duration={500}>
                   Skills

@@ -17,6 +17,10 @@ import { FaBootstrap } from "react-icons/fa";
 import { FaPython } from "react-icons/fa";
 import { SiMysql } from "react-icons/si";
 import { TbBrandDocker } from "react-icons/tb";
+import { FaWordpress } from "react-icons/fa";
+import { FaPhp } from "react-icons/fa";
+
+
 
 const Skills = () => {
    return (
@@ -110,6 +114,17 @@ const Skills = () => {
                   <TbBrandDocker className="w-20 h-20 mx-auto" />
                   <p className="my-4">Docker</p>
                </div>
+
+               <div className="shadow-md shadow-[]">
+                  <FaWordpress className="w-20 h-20 mx-auto" />
+                  <p className="my-4">WordPress</p>
+               </div>
+
+               <div className="shadow-md shadow-[]">
+                  <FaPhp className="w-20 h-20 mx-auto" />
+                  <p className="my-4">PHP</p>
+               </div>
+
             </div>
          </div>
       </div>
