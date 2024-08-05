@@ -1,5 +1,6 @@
 {
   "name": "portfolio-app",
+ 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,7 +31,7 @@
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://Arnold-Zhang-github.github.io/portfolio-app",
+  "homepage": "/",
   "eslintConfig": {
     "extends": [
       "react-app",
